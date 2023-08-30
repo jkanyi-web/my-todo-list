@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(15, 39, 39);
+  width: 100vw;
+  height: 100vh;
+}
+
+.container {
+  padding: 10%;
+}
+
+.input {
+  font-size: 1.5rem;
+  padding: 2%;
+  border-radius: 15px;
+  width: 80%;
+}
+
+h1 {
+  color: white;
+  font-size: 3rem;
+}
+
+li {
+  color: aliceblue;
+  list-style: none;
+  font-size: 1.5rem;
+}
+
+.add {
+  height: 70px;
+  border-radius: 15px;
+
+}
